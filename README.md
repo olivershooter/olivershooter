@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="banner.png">
+  <img width="460" height="300" src="OS_logo.png">
   <br>
   Welcome
 </p>
