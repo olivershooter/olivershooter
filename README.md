@@ -1,10 +1,13 @@
 <p align="center">
-    ![icon](https://i.imgur.com/tPPYguP.png "icon") <br>
+  <img width="460" height="300" src="banner.png">
+  <br>
   Welcome
 </p>
+
 <br>
 <br>
 
 <p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=olivershooter&show_icons=true&theme=radical)
+  <a href="https://github.com/olivershooter"><img src="https://github-readme-stats.vercel.app/api?username=olivershooter&hide_border=true&show_icons=true&theme=radical" alt="olivershooter's github stats"></a>
 </p>
+
